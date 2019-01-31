@@ -1,0 +1,40 @@
+body {
+color: #000000;
+font-family: arial; verdana;
+font-size: 10pt;
+background-color: #ffffff;
+background-image: url(fundo.gif);
+}
+   
+      table
+      {
+        font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;          
+        border-collapse:collapse;
+		background-color: #ffffff;
+      }
+      table td, th
+      {
+        border:1px solid #2424FF;
+        padding:1px 1px 1px 1px;
+		font-size:14;
+        text-align:center;		
+      }
+      table th
+      {
+        font-size:14;		
+        text-align:center;
+        padding-top:1px;
+        padding-bottom:1px;
+        background-color:#2E82FF;
+        color:#fff;
+      }
+      table tr.alt td
+      {
+        font-size:14;		
+		color:#000;
+        background-color:#D6EDFF;
+		padding-top:1px;
+		padding-bottom:1px;
+		text-align:center;
+      }
+
